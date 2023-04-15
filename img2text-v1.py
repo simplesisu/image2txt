@@ -16,7 +16,7 @@ class OCRApp(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle('OCR Application')
+        self.setWindowTitle('image2txt')
         self.setGeometry(100, 100, 800, 600)
 
         main_layout = QVBoxLayout()
