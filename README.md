@@ -13,7 +13,9 @@ or
 
 
 **Detailed installation and information:**
-Image to Text OCR Application
+
+## Image to Text OCR Application
+
 This repository contains a simple Optical Character Recognition (OCR) application that allows users to extract text from images. The application is built using Python, PyQt5, and Tesseract OCR. Both the Python source code and a standalone executable for Windows are provided.
 
 **Features**
